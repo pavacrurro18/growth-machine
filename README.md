@@ -34,5 +34,4 @@
 
 - El refactor completo está en el Pull Request: `vibe-refactor`
 - Esperando revisión de al menos 1 miembro del equipo
-- El refactor completo está en el Pull Request: `vibe-refactor`
-- Esperando revisión de al menos 1 miembro del equipo
+
